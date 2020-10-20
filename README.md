@@ -8,7 +8,7 @@ Writing tests can be time consuming for many developers and some questions needs
 
 2.) What specific output is expected after the test?
 
-This questions would lead the developer to create a mental strategy and a clear goal to write a functional test. Following right after that, the developer should think about how to :
+These questions would lead the developer to create a mental strategy and a clear goal to write a functional test. Following right after that, the developer should think about how to :
 
 1.) Creating the inputs for the test.
 
