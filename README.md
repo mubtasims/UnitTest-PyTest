@@ -9,9 +9,9 @@ Writing tests can be time consuming for many developers and some questions needs
 
 This questions would lead the developer to create a mental strategy and a clear goal to write a functional test. Following right after that, the developer should think about how to :
 
-1.) Creating the inputs for the test
-2.) Execute the code being tested, and observing the test result
-3.) Compare the the test result with the expected result
+1.) Creating the inputs for the test.
+2.) Execute the code being tested, and observing the test result.
+3.) Compare the the test result with the expected result.
 
 Python is a versatile language that is used in multiple different industries starting from space technologies to machine learning, all the way down to YouTube. With such a versatile language to work with, testing Python can be seen as a very daunting task but with proper procedures and a structured plan, testing can be implemented without much complications. Software developers can create simple tests for applications in a few easy steps and then build on it from there.
 
@@ -21,7 +21,7 @@ A unit test is a smaller test, one that checks that a single component of the pr
 
 Unittest requires that:
 
-1.) The tests must be input into classes as methods
+1.) The tests must be input into classes as methods.
 2.) A collection of unique assertion methods must be used.
 
 Then we have Pytest, which is also a testing procedure for Python codes. It is a framework that is also used in the industry, if anything more preferred by the Python community for testing purposes on databases and mainly APIs.
