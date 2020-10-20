@@ -4,14 +4,14 @@ Testing in the software development cycle is a crucial step, not only for furthe
 
 Writing tests can be time consuming for many developers and some questions needs to be asked in order to write effective tests:
 
-1.) What do you want to test?
-2.) Are you writing a unit test or an integration test?
+1.) What needs to be tested?
+2.) What specific output is expected after the test?
 
-Then the structure of a test should loosely follow this workflow:
+This questions would lead the developer to create a mental strategy and a clear goal to write a functional test. Following right after that, the developer should think about how to :
 
-1.) Create your inputs
-2.) Execute the code being tested, capturing the output
-3.) Compare the output with an expected result
+1.) Creating the inputs for the test
+2.) Execute the code being tested, and observing the test result
+3.) Compare the the test result with the expected result
 
 Python is a versatile language that is used in multiple different industries starting from space technologies to machine learning, all the way down to YouTube. With such a versatile language to work with, testing Python can be seen as a very daunting task but with proper procedures and a structured plan, testing can be implemented without much complications. Software developers can create simple tests for applications in a few easy steps and then build on it from there.
 
