@@ -1,4 +1,4 @@
-# UnitTest-PyTest
+# UnitTest & PyTest
 
 Testing in the software development cycle is a crucial step, not only for further development and production ready codes but also to implement a clean layout overall. An application, no matter how small or large it is, needs some form of testing in order to execute the commands properly and spits out the result that is expected. In this very particular repo, we will understand the very basics of testing, especially in Python.
 
